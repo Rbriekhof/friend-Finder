@@ -4,9 +4,7 @@
 
 * [Link to the web site hosted on Heroku](https://evening-gorge-44760.herokuapp.com/)
 
-* [Link to my repository](https://github.com/komalbatra/FriendFinder.git)
-
-* [Link to my repository](https://komalbatra.github.io/Portfolio/#portfolio)
+* [Link to my repository](https://github.com/Rbriekhof/friend-Finder)
 
 
 - - - 
